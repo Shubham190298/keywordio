@@ -1,0 +1,22 @@
+.txt{
+    height: 120px;
+}
+.mt{
+    margin-top: -60px;
+}
+.head{
+    margin-top: -15px;
+
+}
+.me{
+    margin-right: 180px;
+    margin-left: -440px;
+}
+.sub{
+    /* height: 150px; */
+    text-align-last: center;
+}
+.vv{
+    padding: 110px;
+    margin: 15px;
+}
